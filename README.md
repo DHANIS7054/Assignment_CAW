@@ -1,5 +1,5 @@
 # Assignment_CAW
-To populate dynamic HTML table and assert it with the given json data in given URL.
+To populate dynamic HTML table in given URL and assert it with the given json data.
 
 ##Technologies/Frameworks Used
 -**Maven:** Dependency management and build tool
